@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+html,
+body,
+#__next {
+  height: 100vh;
+  width: 100vw;
+  font-family: "Kanit", sans-serif;
+}
+
+.moving_background_gradient {
+  background: url("https://64.media.tumblr.com/96f0c4a95bf1dcc445345f8200676fd4/tumblr_pfk0x8BUmB1uzwgsuo1_400.gifv");
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@import "tailwindcss/utilities";

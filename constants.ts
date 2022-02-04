@@ -1,0 +1,1 @@
+export const REVOLT_INVITE = "https://app.revolt.chat/invite/NrByrxEN";
