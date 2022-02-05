@@ -18,4 +18,10 @@ body,
   -webkit-text-fill-color: transparent;
 }
 
+.button_cta {
+  background: url("https://64.media.tumblr.com/96f0c4a95bf1dcc445345f8200676fd4/tumblr_pfk0x8BUmB1uzwgsuo1_400.gifv");
+  background-size: cover;
+  background-position: center;
+}
+
 @import "tailwindcss/utilities";
